@@ -4,8 +4,8 @@
 <a href="https://www.linkedin.com/in/yash-bansal-a99208190/">
   <img align="left" alt="Yash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://www.instagram.com/_yash__bansal_/">
+  <img align="left" alt="Yash's Instagram" width="24px" src="https://github.com/yashbansal130/yashbansal130/blob/main/icons8-instagram.svg" />
 </a>
 
 
