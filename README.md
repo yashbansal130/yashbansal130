@@ -18,12 +18,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 
-### Social Profiles- 
-<a href="https://www.linkedin.com/in/yash-bansal-a99208190/">
-  <img align="left" alt="Yash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/_yash__bansal_/">
-  <img align="left" alt="Yash's Instagram" width="24px" src="https://github.com/yashbansal130/yashbansal130/blob/main/icons8-instagram.svg" />
-</a>
-
-<br />
+🔗 &nbsp; **Connect with me**
+<p align="left">
+<a href="https://www.linkedin.com/in/yash-bansal-a99208190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_yash__bansal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
