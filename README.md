@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there, Fellow \<Contributors>  👋
+
+### Social Profiles- 
+<a href="https://www.linkedin.com/in/yash-bansal-a99208190/">
+  <img align="left" alt="Yash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+
 
 <!--
 **yashbansal130/yashbansal130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
